@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <style>
+            .container{
+                height:800px;
+                width:800px;
+            }
+            .mydiv{
+                position: absolute;
+                height:200px;
+                width:200px;
+            }
+            .firstDiv{
+                
+                top:15px;
+                left: 20px;
+                background-color: blueviolet;
+                z-index: 1;
+            }
+            .secondDiv{
+    
+                top:35px;
+                left: 40px;
+                font-size: x-large;
+                background-color: red;
+                z-index: 2;
+                padding: 20px;
+                border:5px solid black;
+                margin: 20px;
+            }
+            p{
+                height: 100px;
+                width: 300px;
+            }
+            .hidden
+            {
+                overflow: hidden;
+            }
+            .scroll{
+                overflow-y: scroll;
+            }
+        </style>
+    </head>
+<body>
+    <div class="container">
+        <div class="mydiv firstDiv"></div>
+        <div class="mydiv secondDiv">Hello World</div>
+    </div>
+    <p class="scroll">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id provident mollitia eveniet perferendis optio? Repellendus vitae itaque natus, numquam enim voluptatem cupiditate fugiat modi dolorum repellat ipsum! Laborum, tempore quae.</p>
+</body>
+</html>

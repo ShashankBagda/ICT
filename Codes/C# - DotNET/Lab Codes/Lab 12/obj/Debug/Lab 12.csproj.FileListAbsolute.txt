@@ -1,0 +1,7 @@
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Lab 12\bin\Debug\Lab 12.exe.config
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Lab 12\bin\Debug\Lab 12.exe
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Lab 12\bin\Debug\Lab 12.pdb
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Lab 12\obj\Debug\Lab 12.csproj.AssemblyReference.cache
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Lab 12\obj\Debug\Lab 12.csproj.CoreCompileInputs.cache
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Lab 12\obj\Debug\Lab 12.exe
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Lab 12\obj\Debug\Lab 12.pdb

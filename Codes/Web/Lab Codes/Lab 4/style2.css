@@ -1,0 +1,52 @@
+/* in ex css create imahge tag rules as border radius 20px hW 200x200 border color has #333fff */
+
+img{
+    height: 200px;
+    width: 200px;
+    border: 3px solid #333fff;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+img:hover{
+    height: 150px;
+}
+.b1{
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    color: green;
+    border: 3px solid green;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.b1:hover{
+    color: white;
+    background-color: green;
+}
+.b2{
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    color: red;
+    border: 3px solid red;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.b2:hover{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+}
+.b3{
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    color: blue;
+    border: 3px solid blue;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.b3:hover{
+    color: white;
+    background-color: blue;
+}

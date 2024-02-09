@@ -1,0 +1,26 @@
+.mydiv{
+    height: 100px;
+    width: 100px;
+    border-radius: 0%;
+    background-color: blue;
+    position: absolute;
+    animation-name: myanimation;
+    animation-duration: 3s;
+}
+.mydiv2{
+    height: 100px;
+    width: 100px;
+    border-radius: 0%;
+    background-color: red;
+    position: absolute;
+    animation-name: myanimation2;
+    animation-duration: 3s;
+}
+@keyframes myanimation{
+    0%{left: 0px;}
+    100%{left:1000px;}
+}
+@keyframes myanimation2{
+    0%{left: 1000px;}
+    100%{left:0px;}
+}

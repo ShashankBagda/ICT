@@ -1,0 +1,31 @@
+<html>
+    <head></head>
+    <body>
+
+        <!--  Login Form  -->
+        Username : <input type="text" name="uname" id="uname"/><br><br>
+        Password : <input type="password" name="passwd" id="pwd"/><br><br>
+        <button onclick="clickbtn()">Submit</button>
+        <select id="color" onchange="changeFun()">
+            <option value="red">Red</option>
+            <option value="blue">Blue</option>
+            <option value="yellow">Yellow</option>
+            <option value="green">Green</option>
+            <option value="black">Black</option>
+        </select>
+        <script>
+            var n = document.getElementById("");
+            function clickbtn(){
+                var nm = document.getElementById("uname").value;
+                var pw = document.getElementById("pwd").value;
+                console.log(nm,pw);
+            }
+            function changeFun(){
+                var clr=document.getElementById("color").value;
+                console.log(clr);
+                document.getElementsByTagName("body").attr('')
+            }
+        </script>
+    </body>
+</html>
+<!-- Drop down using seect tage base on selection change color of div -->

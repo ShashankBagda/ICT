@@ -1,0 +1,7 @@
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Loan Calculator\bin\Debug\Loan Calculator.exe.config
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Loan Calculator\bin\Debug\Loan Calculator.exe
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Loan Calculator\bin\Debug\Loan Calculator.pdb
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Loan Calculator\obj\Debug\Loan Calculator.csproj.AssemblyReference.cache
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Loan Calculator\obj\Debug\Loan Calculator.csproj.CoreCompileInputs.cache
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Loan Calculator\obj\Debug\Loan Calculator.exe
+D:\Mirror\ICT\3rd YEAR\SEM 5\.NET Technologies (01CT1518)\Loan Calculator\obj\Debug\Loan Calculator.pdb

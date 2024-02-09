@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Site</title>
+</head>
+<body>
+    <p id="mypara">
+        This is test para
+    </p>
+
+    <div class="mycls" >Test Div</div>
+
+    <script>
+        var para = document.getElementById("mypara");
+        console.log(para.innerHTML)
+
+        var clsEle = document.getElementsByClassName("mycls")
+        console.log(clsEle.length)
+        clsEle[0].style.fontSize = '100px';
+        console.log(clsEle)
+
+        var clsdiv = document.getElementsByTagName("div");
+        clsdiv[0].style.backgroundColor = 'red';
+
+        console.log(Date.now())
+
+
+    </script>
+</body>
+</html>
+
+
+// 2 to 3 different object, when we click on that it increse the score and when i click outside it decrease the score

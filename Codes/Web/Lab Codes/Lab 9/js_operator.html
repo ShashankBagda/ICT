@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=7, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button type="button" id="mybtn" onclick="display()">My Button</button>
+    <button type="button" id="mybtn2" onclick="clearpara()">Clear</button>
+    <p id="mypara"></p>
+    <input type="text" id="myinput" placeholder="Hello"/>
+
+    <script>
+        function display(){
+            
+        }
+        function clearpara(){
+            document.getElementById("mypara").innerHTML="";
+            document.getElementById("myinput").innerHTML="";
+        }
+
+        function myfun(){
+            var x = document.getElementById("myinput").value;
+            document.getElementById("myinput").value=x.toUpperCase();
+        }
+        document.getElementById("myinput").onkeyup=myfun;
+
+        function myload(){
+            console.error("TEST");
+        }
+        document.getElementsByTagName('body')[0].onload=myload;
+        console.log(document.getElementsByTagName('body'));
+        
+        
+
+       // display contect of text field onblur
+        // var x = 10;
+        // var y = 5;
+        // var z = "10";
+        // if(x<y && x>0)
+        //     {
+        //         console.log("x==y",x==y);
+        //         console.log("x===y",x===y);
+        //         console.log("x==z",x==z);
+        //         console.log("x===z",x===z); // === is check datatype also
+        //     }
+        // x+=30;
+        // console.log(x)
+        // var n='D';
+        // n*=30;
+        // console.log(n);
+        // var max = x<y?y:x;
+        // console.log(max)
+    </script>
+</body>
+</html>

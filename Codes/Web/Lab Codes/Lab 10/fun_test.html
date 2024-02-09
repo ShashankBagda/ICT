@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function test()
+        {
+            console.log('test function called');
+        }
+        test();
+
+        var funVar = () =>
+        {
+            console.log('from funVar function ');
+        }
+        funVar();
+
+        function add(a, b)
+        {
+            return a+b;
+        }
+
+        console.log(add(10,5))
+        console.log(add(5,69))
+
+        console.log(new Date());
+
+        var d = new Date();
+        //console.log(d);
+        //console.log(d.toDateString());
+        //console.log(d.toISOString());
+        //console.log(d.toLocaleDateString());
+        //console.log(d.toLocaleString());
+        //console.log(d.toString());
+
+        //console.log(d.getDate());
+        //console.log(d.getDay());
+        //console.log(d.getMonth());
+        //console.log(d.getFullYear());
+        //console.log(d.getHours());
+        //console.log(d.getMinutes());
+        //console.log(d.getSeconds());
+        
+        var myDate = new Date('2023-05-06')
+        console.log(myDate);
+
+    </script>
+</body>
+</html>

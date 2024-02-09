@@ -1,0 +1,22 @@
+$date
+	Wed Feb 07 16:01:56 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module mux_16x1_using_8x1_tb $end
+$var wire 1 ! out $end
+$var reg 16 " in [15:0] $end
+$var reg 4 # sel [3:0] $end
+$upscope $end
+$enddefinitions $end
+#750
+$dumpvars
+b1111 #
+b1000000000000000 "
+1!
+$end
+#800

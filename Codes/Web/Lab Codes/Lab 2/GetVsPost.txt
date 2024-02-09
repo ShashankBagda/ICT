@@ -1,0 +1,11 @@
+Gate Vs Post
+
+Get is simple
+post is complex
+
+Get is faster
+post is slower than get
+
+Post is Secure
+
+POst is use to handle large amount of data

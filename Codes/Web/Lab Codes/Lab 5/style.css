@@ -1,0 +1,30 @@
+
+            .mydiv{
+                height:100px;
+                width:100px;
+                display: flex;
+            }
+            .a{
+                height: 100px;
+                width: 100px;
+                margin-left: 10px;
+                border: 5px solid blueviolet
+            }
+            .b{
+                height: 100px;
+                width: 100px;
+                margin-left: 10px;
+                border: 5px solid blueviolet
+            }
+            .c{
+                height: 100px;
+                width: 100px;
+                margin-left: 10px;
+                border: 5px solid blueviolet
+            }
+            .d{
+                height: 100px;
+                width: 100px;
+                margin-left: 10px;
+                border: 5px solid blueviolet
+            }

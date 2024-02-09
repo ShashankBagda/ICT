@@ -1,0 +1,62 @@
+/* @media screen and (min-width:320px) {
+    body{
+        background-color:aqua;
+        transition: 0.5s;
+    }
+}
+@media screen and (min-width:768px) {
+    body{
+        background-color:greenyellow;
+        transition: 0.5s;
+    }
+}
+@media screen and (min-width:1024px) {
+    body{
+        background-color:rgb(255, 111, 0);
+        transition: 0.5s;
+    }
+}
+
+@media screen,print {
+    
+} */
+
+.mydiv{
+    height: 100px;
+    width: 100px;
+    border-radius: 0%;
+    border: 5px solid red;
+    position: absolute;
+    animation-name: myanimation;
+    animation-duration: 10s;
+    /* background-image: url(cheems1.jfif); */
+    /* transition: 1s; */
+}
+
+/* @keyframes myanimation{
+    from{left: 50px;}
+    to{left:100px;}
+} */
+
+@keyframes myanimation{
+    0%{ left:50px;}
+    25%{left:80%;top:0%;}
+    50%{left:80%;top:80%;}
+    75%{left:0%;top:80%;}
+    100%{left:0px;top:0px}
+}
+
+/* .mydiv:hover{
+    border-radius:00%;
+    background-image: url(cheems2.jfif);
+    transform: translate(150px,150px) rotate(360deg);
+    border: 5px solid greenyellow;
+}
+ */
+
+/* @media print{
+    body{
+        color:blue;
+        font-size:xx-large;
+    }
+} */
