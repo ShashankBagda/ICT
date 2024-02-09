@@ -1,0 +1,111 @@
+61. Create a user define function named sum which accept 2 arguments (of integer type) and return the sum of them. 
+62. Create a user define function named avg which pass array as argument (of integer type) and return its average value.
+63. Create a user define function named evenodd which accept one argument (of integer type) and return if the number is even or odd.
+64. Create a user define function named fact which accept one argument (of integer type) and return the factorial of given number.
+65. Create a user define function named prime which accept one argument (of integer type) and display that the no is prime or not. (no need to return value)
+66. Create a user define function named triangle which accept one argument (of integer type) and display a triangle like. (If you have given 4 as argument)
+1
+1 2
+1 2 3
+1 2 3 4
+67. Create a user define function named power which accept two arguments (of integer type)  (i) base (ii) expon and display the base^expon value. 
+68. Create a user define function named Sroot which accept one argument (of integer type) and display the square root of that no.
+69. Create a user define function named ASCII which accept one argument (of character type) and display ASCII value of that character.
+70. Create a user define function named CHR which accept one argument (of integer type) and display character of that ASCII value.
+71. Write a function to count the simple interest..
+72. Write a function  that count compound interest.
+73. Write a function to generate the square of any given number 
+74. Write a function  which should work as a power function
+75. Write a functions to count the area of circle, triangle, rectangle and square.
+76. Write a function to print any character for n no of time.
+77. Write a function which should work as absolute function.  
+78. Write a program witch demonstrate the use of pre and post increment and decrement operator also define the use of assignment operator like +=, -= , *= , /=.
+80. Write a functions which should work like a isnum() ,isalpha() ,ischar() functions .
+81. Write a functions which should work like (1) asc() function which returns an integer value of given character(2) char() function which returns character value for given integer value.
+82. Write a function to interchange the two value a and b (Call By Reference) witch passes the 2 arguments in form of address of a and b variable with declaration like Void swap(int *, int *).
+83. Write a void function which count the area and perimeter of circle(Call By Reference) witch passes radius , address of  area variable and address of  perimeter variable with declaration like Void count(float , float *, float *)
+84. Write a function to count mean for discrete data. User has to pass only n no of values and address of first element of an array with declaration  like float mean(int *,float *)
+85. Write a function to find out maximum from of n no of values. User has to pass n no of elements and Address of first variable in an array. With declaration like int findmax(int,int *).
+86. Write a function to arrange integer values in ascending order in an array witch passes n of elements and address of  first element of  an array  with declaration like  void arrange(int,int *)
+87. Write a program that demonstrate the use of gets() and puts() .
+88. Write a program that demonstrate the use of  strcmp(), strlen(), strcpy(), strrev(), strupr(), strlwr() and strcat() built-in function.
+89. Write a program that take input of  name of 10 students  with gets() and just print them with puts() function.
+90. Write a  program or function which should work like a strlen() function.
+91. Write a  program or function which should work like a strcmp() function.
+92. Write a  program or function which should work like a strcpy() function.
+93. Write a  program or function which should work like a strcat() function.
+94. Write a  program or function which should work like a strrev() function.
+95. Write a  program or function which should work like a strupr() function.
+96. Write a  program or function which should work like a strlwr() function.
+97. Write a program that take input  names of 10 students. Arrange them in ascending order in string array.
+98. Write a program that take input paragraph of 10 lines. Count total no of word and total no of characters (Excluding blank spaces).
+ 99. Write a C Program which accepts n numbers in an array and display it.
+100. Write a C Program which accepts n numbers in an array and display its average.
+101. Write a C Program which accepts n numbers in an array, sort it and display it.
+102. Write a C Program which accepts n x m numbers in the 2-d array and display it.
+103. Write a C Program which accepts n numbers in an array and find the total no of positive and negative no.
+104. Write a C Program which accepts n numbers in an array and find the maximum and minimum value.
+105. Write a C Program which accepts n*m numbers in an array and find out row total, column total, maximum, minimum and total.  
+106. Write a C Program which shows the concept of the pointer.
+107. Write a C Program to swap two values using function and pointer. 
+108. Write a C Program to generate the array of distinct or unique values from the array given by the user.
+109. Write a C Program to arrange the array values in reverse order.
+110. Write a C Program to Print transpose of a matrix.
+111. Write a C Program to perform the summation and subtraction of two matrices.
+112. Write a C Program to perform the multiplication of two matrices.
+113. Write a C Program to print n x n spiral matrix using matrix.
+114. Write a C Program to left rotate array values as per user choice.
+115. Write a C Program to right rotate array values as per user choice.
+116. Write a C Program to count frequency if each unique no in an array.
+117. Write a C Program to demonstrate stack using an array.
+118. Write a C Program to demonstrate queue using an array.
+119. Write a C Program to get and Print String.
+120. Write a C Program to print String in reverse order.
+121. Write a C Program to print String after changing its case.
+122. Write a C Program to convert String into an integer.
+123. Write a C Program to convert String into float.
+124. Write a C Program to check input String is Palindrome or not.
+125. Write a C Program to convert input binary string into a decimal number (integer).
+126. Write a C Program to convert input binary string into an octal number(integer).
+127. Write a C Program to convert input binary string into Hexadecimal String.
+128. Write a C Program to validate the email address.
+129. Create a structure named EMP that has member variables employee no, employee name, basic salary, DA, HRA, TA, PF and Gross Salary.
+130. Write a C Program which shows the size of Structure EMP.
+131. Write a C Program using structure EMP that demonstrate a different type of declaration of a structure variable.
+132. Write a C Program using structure EMP that accept and print the value of the object.
+133. Write a C Program using structure EMP that shows how to copy one object e1 to another object e2.
+134. Write a C Program using structure EMP that find which object has higher salary e1 or e2 using function.
+135. Create a structure named Student that has member variable roll no, name, marks of 3 subjects. (Use appropriate data structure)
+136. In program 135 add field percentage and calculate it.
+137. In program 136 create an array of structures. [for 5 students]
+138. In program 137 use a pointer in place of the array. [for n students]
+139. Write a program that demonstrates the use of nested structure. For example
+140. Write a C Program to demonstrate file handling using getc() and putc() function.
+141. Write a C Program to demonstrate file handling using fgetc() and fputc() function.
+142. Write a C Program to demonstrate file handling using fgets() and fputs() function.
+143. Write a C Program to demonstrate file handling using fprintf() and fscanf() function.
+144. Write a C Program to demonstrate file handling using fread() and fwrite() function.
+145. Write a C Program to demonstrate file handling using fseek(), ftell() and rewind() function.
+146. Write a C Program to copy data of one file to another file.
+147. Write a C Program to read file number.txt and write data in even.txt and odd.txt as per number value.
+148. Write a C Program to demonstrate how to append data in the file.
+149. Write a C Program using the command line argument to create your own copy command.
+150. Write a C Program to manage Contact Directory using structure, function and file handling with the following options.
+    a) Insert Record
+    b) Search Record
+    c) Update Record
+    d) Delete Record
+    e) Display Records
+    f) Sort Records [fieldwise]
+    g) Sort Record in File
+    h) Exit
+    //Structure of 
+    struct Contact
+    {
+        int contNo;
+        char *contName;
+        long long int mobNo;
+        char gender;
+    };
+151. Write a C Program to demonstrate Linked List.
+152. Write a C Program to demonstrate preprocessor directives.
